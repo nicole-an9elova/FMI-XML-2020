@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue_html_2.xsl"?>
+<!DOCTYPE catalogue SYSTEM "guitarCatalogue.dtd">
+<catalogue>
+    <name>IBANEZ</name>
+    <products>
+        <product certificate="Yes">
+            <nameOfTheProduct>JEMJR</nameOfTheProduct>
+            <picture size="2" pictureAltText="Снимка на лицевата страна на китарата">images/ibanez/JEMJR_front.jpg</picture>
+            <descriptionOfProduct>
+                Eлектрическа китара – модел Ibanez JEMJR WH. Иначе казано,
+                това e легендарният Jam в конфигурация junior, бюджетен модел,
+                който идва на отлична цена. Китарата е част от моделите на Steve Vai,
+                с характерната дръжка в горната част на тялото, декорирания гриф с красивия
+                флорален мотив (дървото на живота) и марковото тремоло в стил лъвски нокът.
+                От списанието Guitar Player определят китарата като добре изглеждаща,
+                с много удобен гриф за бързо свирене и е китара на цена,
+                която могат да си позволят и начинаещи китаристи. От 2018 г. китарата е на пазара
+                с някои нововъведения в структурата, които я правят още по-качествен модел.
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Махагон</bodyMaterial>
+                    <bodyShape>Солидна</bodyShape>
+                    <bodyFinish>Гланц Полиуретан</bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Клен</neckMaterial>
+                    <neckFinish>Сатенен уретан с гланцово уретаново лице</neckFinish>
+                    <neckShape>Bolt-On Neck</neckShape>
+                    <scaleLength>25.5" / 64.77 cm</scaleLength>
+                    <fingerboardMaterial>Палисандрово дърво</fingerboardMaterial>
+                    <fingerboardRadius>15.7"</fingerboardRadius>
+                    <numberOfFrets>24</numberOfFrets>
+                    <fretSize>Jumbo</fretSize>
+                    <nutMaterial>Костен</nutMaterial>
+                    <nutWidth>(43 mm)</nutWidth>
+                    <positionInlays>8мм</positionInlays>
+                    <trussRod>None</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>Humbucker</neckPickup>
+                    <controls>Tone Control: x1
+                        Volume Control: x1
+                    </controls>
+                    <switching>5-Way Pickup Selector Switch</switching>
+                    <configuration>PK</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>(Passive/Ceramic)</bridge>
+                    <hardwareFinish>Черен цвят</hardwareFinish>
+                    <tuningMachines>No</tuningMachines>
+                    <pickguard>3-слойно черен/бял</pickguard>
+                    <controlKnobs>Плосък връх, Бял тон</controlKnobs>
+                    <neckPlate>Cavity plate, Jack Black</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>10.5mm разстояние между 6-те Ibanez струни</strings>
+                    <legalNotice>
+                        ПРЕДУПРЕЖДЕНИЕ: Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .
+                    </legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>976,00лв.</price>
+            <version>#: 0288000526</version>
+        </product>
+        <product certificate="Yes" returns="No">
+            <nameOfTheProduct>IBANEZ® AEWC11 NNB</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата страна на китарата">images/ibanez/ibanez_1.jpg</picture>
+            <descriptionOfProduct>
+                Възползвайте се от нашето предложение за отлична акустична китара с марката Epiphone.
+                Dreadnought китарите са известни със своята благозвучност и насоченост за блус изпълнения,
+                кънтри и блуграс, и за страхотен акомпанимент при пеене пред малка публика или на голяма сцена.
+                Начинаещи или професионалисти – всеки може да оцени чудесния тон и
+                олекотеното усещане при свирене с тази китара.
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Махагон</bodyMaterial>
+                    <bodyShape>AEWC тяло</bodyShape>
+                    <bodyFinish>Гланц Полиуретан</bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Клен</neckMaterial>
+                    <neckFinish>Сатенен уретан с гланцово уретаново лице</neckFinish>
+                    <neckShape>AEWC/Nyatoh</neckShape>
+                    <scaleLength>63.4 cm</scaleLength>
+                    <fingerboardMaterial>Палисандрово дърво</fingerboardMaterial>
+                    <fingerboardRadius>400мм</fingerboardRadius>
+                    <numberOfFrets>20</numberOfFrets>
+                    <fretSize>Jumbo</fretSize>
+                    <nutMaterial>Костен</nutMaterial>
+                    <nutWidth>(43 mm)</nutWidth>
+                    <positionInlays>7мм</positionInlays>
+                    <trussRod>None</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>Fishman® Sonicore</neckPickup>
+                    <controls>Tone Control: x1
+                        Volume Control: x1
+                    </controls>
+                    <switching>5-Way Pickup Selector Switch</switching>
+                    <configuration>PK</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>Орехов AEWC оригинален</bridge>
+                    <hardwareFinish>Черен цвят</hardwareFinish>
+                    <tuningMachines>Хромова die-cast тунери</tuningMachines>
+                    <pickguard>3-слойно черен/бял</pickguard>
+                    <controlKnobs>Плосък връх, Бял тон</controlKnobs>
+                    <neckPlate>Cavity plate, Jack Black</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>Ibanez IACS6C, .012/.016/.024/.032/.042/.053, 11mm</strings>
+                    <legalNotice>
+                        ПРЕДУПРЕЖДЕНИЕ: Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .
+                    </legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>520,00лв.</price>
+            <version>#: 0288456300</version>
+        </product>
+        <product certificate="Yes" returns="Yes">
+            <nameOfTheProduct>IBANEZ® V205SECE-NT</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата странан на китарата">images/ibanez/ibanez_3.jpg</picture>
+            <descriptionOfProduct>
+                Възползвайте се от нашето предложение за отлична акустична китара с марката Ibanez,
+                която бързо разрешава задачата да намерите качество, дизайн и звук на отлична цена и за начинаещи.
+                Независимо дали търсите традиционен класически инструмент или удобна акустична китара с която да
+                започнете, моделите, които предлагаме са изключително добре изработени, достъпни са,
+                имат първична тоналност и комфорт при свирене характерни за много по-скъпи китари.
+            </descriptionOfProduct>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>507.00лв.</price>
+            <version>#: 0288456170</version>
+        </product>
+    </products>
+</catalogue>

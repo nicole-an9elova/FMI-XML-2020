@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue_html_1.xsl"?>
+<!DOCTYPE catalogue SYSTEM "guitarCatalogue.dtd">
+
+<catalogue>
+    <name>EPIPHONE</name>
+    <products>
+        <product certificate="Yes" returns="No">
+            <nameOfTheProduct>ES-335 Figured</nameOfTheProduct>
+            <picture size="2" pictureAltText="Снимка на лицевата страна на китарата">images/epiphone_1.png
+            </picture>
+            <descriptionOfProduct>
+                Още една музикална легенда може да оживее в ръцете ви, чрез моделът на Epiphone, 
+                който пресъздава оригинала на Гибсън ES-335 Dot. Моделът надминава всички имитации
+                като осигурява за китаристите от съвременното поколение класическата визия въплътена
+                в голямото полу-акустично тяло. Това, което е различно обаче, е цената.
+                За тази китара не плащате натрупаната в нея история.
+                На супер цена получавате Epiphone ЕS-335 Figured в пламтящ червено-син цвят, с черна
+                финитура по периметъра на тялото.
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Слоен клен</bodyMaterial>
+                    <bodyShape>ES-335 Singlecut</bodyShape>
+                    <bodyFinish>Многослоен клен, пламъчен фурнир AAA</bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Махагон</neckMaterial>
+                    <neckFinish>Сатенен уретан с гланцово уретаново лице</neckFinish>
+                    <neckShape>Закръглена C</neckShape>
+                    <scaleLength>24,72 "/ 628 мм</scaleLength>
+                    <fingerboardMaterial>Индийски лавр</fingerboardMaterial>
+                    <fingerboardRadius>12.01"</fingerboardRadius>
+                    <numberOfFrets>22</numberOfFrets>
+                    <fretSize>Medium Jumbo</fretSize>
+                    <nutMaterial>Graph Tech® NuBone®</nutMaterial>
+                    <nutWidth>1,69 "/ 43 мм</nutWidth>
+                    <positionInlays>Малък блок</positionInlays>
+                    <trussRod>Залепена, зададена врата</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>Мост Alnico Classic PRO</neckPickup>
+                    <controls>Основна сила на звука, Pan Pot (селектор), Treble Boost / Cut, Midrange Boost / Cut, Bass Boost / Cut, Passive Tone, Active / Passive Mini Toggle</controls>
+                    <switching>Никакво</switching>
+                    <configuration>PJ</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>Epiphone LockTone ™ Tune-O-Matic ™</bridge>
+                    <hardwareFinish>Никел</hardwareFinish>
+                    <tuningMachines>Epiphone Deluxe</tuningMachines>
+                    <pickguard>3-слойно ментово зелено</pickguard>
+                    <controlKnobs>Копчета за черна шапка с метални вложки</controlKnobs>
+                    <neckPlate>5-болтна</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>.010, .013, .017, .026, .036, .046</strings>
+                    <legalNotice>Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .</legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>Warranty.pdf</warranty>
+            <price>599,00€</price>
+            <version>#: 0199010732</version>
+        </product>
+        <product certificate="Yes" returns="Yes">
+            <nameOfTheProduct>Epiphone Broadway Vintage Natural</nameOfTheProduct>
+            <picture size="2" pictureAltText="Снимка на лицевата страна на китарата">images/ep_2.jpg</picture>
+            <descriptionOfProduct>
+                Класическа китара с кухи тела и дупка с форма на арка. 
+                Корпусът на инструмента е изработен от ламинирано дърво от клен с върха на смърч.
+                Шията на кленята е снабдена с гриф Pau Ferro с 20 средни Jumbo прашки.
+                Китарата е оборудвана и с регулируем плаващ мост Пауро Феро, апарати за разделяне
+                на трапецообразните механизми на сплит трапеца, златен хардуер и тунер Grover Rotomatic.
+                В допълнение, той предлага два пикапа Alnico Classic Humbucker. 
+                Звукът се настройва с помощта на два потенциометъра Tone, два потенциометъра за 
+                обем и трипозиционен превключвател.Китарата е направена с Vintage Natural финиш.
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Ламиниран клен</bodyMaterial>
+                    <bodyShape>Broadway Singlecut</bodyShape>
+                    <bodyFinish>Блясък, гладър фурнир BBB</bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Твърд клен</neckMaterial>
+                    <neckFinish>Сатенен уретан с гланцово уретаново лице</neckFinish>
+                    <neckShape>Профил на SlimTaper C</neckShape>
+                    <scaleLength>25.5 ""/ 636 мм</scaleLength>
+                    <fingerboardMaterial>Пау Феро</fingerboardMaterial>
+                    <fingerboardRadius>12"</fingerboardRadius>
+                    <numberOfFrets>20</numberOfFrets>
+                    <fretSize>Medium Jumbo</fretSize>
+                    <nutMaterial>Graph Tech® NuBone®</nutMaterial>
+                    <nutWidth>	1,6875 "</nutWidth>
+                    <positionInlays>Седеф / Абалон блок и триъгълник</positionInlays>
+                    <trussRod>Залепена, зададена врата</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>Класически Alnico Humbucker</neckPickup>
+                    <controls>2 x сила на звука, 2 x тон, 3-посочен превключвател</controls>
+                    <switching>Никакво</switching>
+                    <configuration>KM</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>Регулируем плаващ мост Pau Ferro с фронтален трапецовиден мост</bridge>
+                    <hardwareFinish>Никел</hardwareFinish>
+                    <tuningMachines>Grover Rotomatic, съотношение 18: 1</tuningMachines>
+                    <pickguard>3-слойно</pickguard>
+                    <controlKnobs>Копчета за черна шапка с метални вложки</controlKnobs>
+                    <neckPlate>4-болтна</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>.010, .013, .017, .026, .036, .046</strings>
+                    <legalNotice>Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .</legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="Yes">Елитен калъф</accessories>
+            </features>
+            <warranty>Warranty.pdf</warranty>
+            <price>689,00€</price>
+            <version>#: 019904567</version>
+        </product>
+    
+       
+    </products>
+</catalogue>

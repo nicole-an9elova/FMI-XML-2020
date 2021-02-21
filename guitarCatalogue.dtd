@@ -1,0 +1,53 @@
+<!ELEMENT catalogue (name, products)>
+	<!ELEMENT name (#PCDATA)>
+    <!ELEMENT products (product+)>
+		<!ELEMENT product (nameOfTheProduct, picture, descriptionOfProduct,
+				features*, warranty, price, version)>
+			<!ATTLIST product certificate (Yes | No) "No"
+								returns (Yes|No) "No">
+			<!ELEMENT nameOfTheProduct (#PCDATA)> 
+			<!ELEMENT picture (#PCDATA)>
+				<!ATTLIST picture size NMTOKEN #REQUIRED
+								  pictureAltText #PCDATA #REQUIRED>
+			<!ELEMENT descriptionOfProduct (#PCDATA)> 
+			<!ELEMENT features (body, neck, electronics, hardware, miscellaneous, accessories)>
+				<!ELEMENT body (bodyMaterial, bodyShape, bodyFinish)>
+					<!ELEMENT bodyMaterial (#PCDATA)>
+					<!ELEMENT bodyShape (#PCDATA)>
+					<!ELEMENT bodyFinish (#PCDATA)>
+				<!ELEMENT neck (neckMaterial, neckFinish, neckShape, scaleLength, fingerboardMaterial, fingerboardRadius,
+						numberOfFrets, fretSize, nutMaterial, nutWidth, positionInlays, trussRod)
+					<!ELEMENT neckMaterial (#PCDATA)>
+					<!ELEMENT neckFinish (#PCDATA)>
+					<!ELEMENT neckShape (#PCDATA)>
+					<!ELEMENT scaleLength (#PCDATA)>
+					<!ELEMENT fingerboardMaterial (#PCDATA)>
+					<!ELEMENT fingerboardRadius (#PCDATA)>
+					<!ELEMENT numberOfFrets (#PCDATA)>
+					<!ELEMENT fretSize (#PCDATA)>
+					<!ELEMENT nutMaterial (#PCDATA)>
+					<!ELEMENT nutWidth (#PCDATA)>
+					<!ELEMENT positionInlays (#PCDATA)>
+					<!ELEMENT trussRod (#PCDATA)>
+				<!ELEMENT electronics (neckPickup, controls, switching, configuration)>
+					<!ELEMENT neckPickup (#PCDATA)>
+					<!ELEMENT controls (#PCDATA)>
+					<!ELEMENT switching (#PCDATA)>
+					<!ELEMENT configuration (#PCDATA)>
+				<!ELEMENT hardware (bridge, hardwareFinish, tuningMachines, pickguard, controlKnobs, neckPlate)
+					<!ELEMENT bridge (#PCDATA)>
+					<!ELEMENT hardwareFinish (#PCDATA)>
+					<!ELEMENT tuningMachines (#PCDATA)>
+					<!ELEMENT pickguard (#PCDATA)>
+					<!ELEMENT controlKnobs (#PCDATA)>
+					<!ELEMENT neckPlate (#PCDATA)>
+				<!ELEMENT miscellaneous (strings, legalNotice)>
+					<!ELEMENT strings (#PCDATA)>
+					<!ELEMENT legalNotice (#PCDATA)>
+				<!ELEMENT accessories (#PCDATA)>
+					<!ATTLIST accessories gigBag (Yes | No) "No"
+										  guitarPicks CDATA #REQUIRED >
+			<!ELEMENT warranty (#PCDATA)>
+			<!ELEMENT price (#PCDATA)> 
+			<!ELEMENT version (#PCDATA)> 
+	

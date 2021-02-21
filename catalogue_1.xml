@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue_html_2.xsl"?>
+<!DOCTYPE catalogue SYSTEM "guitarCatalogue.dtd">
+<catalogue>
+    <name>FENDER</name>
+    <products>
+        <product certificate="Yes">
+            <nameOfTheProduct>American Ultra Precision Bass</nameOfTheProduct>
+            <picture size="2" pictureAltText="Снимка на лицевата страна на китарата">images/fender/america_ultra_1.jpg
+            </picture>
+            <descriptionOfProduct>
+                American Ultra е нашата най-модерна серия китари и басове за взискателни играчи, които изискват
+                максимална точност, производителност и тон.
+                Американският Ultra Precision Bass се отличава с уникален „модерен D“ профил на врата с ултра
+                валцувани ръбове на грифа,
+                а заострената пета на врата позволява лесен достъп до най-високия регистър.
+                Ultra Noiseless ™ Vintage пикапите и усъвършенстваните опции за окабеляване предоставят
+                безкрайни тонални възможности - без бръмчене.
+                Изваяните контури на задното тяло са колкото красиви, толкова и функционални. Този универсален,
+                най-съвременен инструмент ще ви вдъхнови да изтласкате свиренето си до нови висоти.
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Елша</bodyMaterial>
+                    <bodyShape>Прецизен бас®</bodyShape>
+                    <bodyFinish>Гланц Полиуретан</bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Клен</neckMaterial>
+                    <neckFinish>Сатенен уретан с гланцово уретаново лице</neckFinish>
+                    <neckShape>Модерен "D"</neckShape>
+                    <scaleLength>34" (86.36 cm)</scaleLength>
+                    <fingerboardMaterial>Палисандрово дърво</fingerboardMaterial>
+                    <fingerboardRadius>10 "до 14" сложен радиус (254 mm до 355,6 mm)</fingerboardRadius>
+                    <numberOfFrets>21</numberOfFrets>
+                    <fretSize>Medium Jumbo</fretSize>
+                    <nutMaterial>Костен</nutMaterial>
+                    <nutWidth>1.625" (41.3 mm)</nutWidth>
+                    <positionInlays>Бяла перлоидна точка - 7мм</positionInlays>
+                    <trussRod>Bi-Flex™</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>Ultra Noiseless ™ Vintage Jazz Bass®</neckPickup>
+                    <controls>Основна сила на звука, Pan Pot (селектор), Treble Boost / Cut, Midrange Boost /Cut, Bass Boost / Cut, Passive Tone, Active / Passive Mini Toggle</controls>
+                    <switching>Никакво</switching>
+                    <configuration>PJ</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>4-седловинен HiMass ™ (заредено)</bridge>
+                    <hardwareFinish>Никел / хром</hardwareFinish>
+                    <tuningMachines>Fender® "F" Леки ключове с конусни валове</tuningMachines>
+                    <pickguard>3-слойно ментово зелено</pickguard>
+                    <controlKnobs>Наплетен плосък връх</controlKnobs>
+                    <neckPlate>5-болтна</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>Fender® 7250M никелирана стоманена кръгла намотка, дълъг мащаб
+                    </strings>
+                    <legalNotice>Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .
+                    </legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>images/fender/Fender.pdf</warranty>
+            <price>2309,00€</price>
+            <version>#: 0199010732</version>
+        </product>
+    
+        <product certificate="Yes" returns="No">
+            <nameOfTheProduct>Vintera® '50S Precision Bass®</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата страна на китарата">images/fender/vintera_1.jpg</picture>
+            
+            <descriptionOfProduct>За автентичен, оригинален оттенък,
+                единичния P Bass пикап беше променен, за да звучи по-скоро като оригинала.
+                Сеизмичен и ударен, той има тона, който прави P Bass един от
+                най-популярните електрически баси. Вратът с форма "Vintage C"
+                има гриф с радиус 7,25" с 20 ребра във винтидж стил, предоставяйки усещане
+                за класически начин на свирене. Мост в ретро стил с 4 седла с резбовани
+                седла и тунинг машини в стил реколта осигуряват естетика от оригиналната епоха,
+                солидна производителност и стабилност на настройката.
+                Други характеристики включват анодизиран алуминиев предпазител,
+                хромиран хардуер и 4-болтова шийка.
+                Включва луксозна чанта.
+            </descriptionOfProduct>
+            <warranty>images/fender/Fender.pdf</warranty>
+            <price>1,069.00€</price>
+            <version>#: 0149612354</version>
+        </product>
+        <product certificate="Yes" returns="Yes">
+            <nameOfTheProduct>Vintera® '60S Mustang Bass®</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата страна на китарата">images/fender/vintera_2.jpg</picture>
+            <descriptionOfProduct>
+                За автентичен тон на Fender пресъздадохме звука на Mustang Bass от 60-те години,
+                за да звучи като оригинала. Ударно и ръмжещо, той има тона,
+                който направи Fender избора на много електрически басисти.
+                Вратът с форма отразяваща „средата на 60-те години С“ има гриф
+                с радиус 7,25” с 19 ребра във винтидж стил, предоставяйки усещане
+                за класически начин на свирене. Мост в ретро стил с 4 седла с
+                резбовани седла, тунинг машини във винтидж стил осигуряват естетика
+                от оригиналната епоха, солидна производителност и стабилност на настройката.
+                Други функции включват главен контрол на силата на звука и тона,
+                хромиран хардуер и 4-болтова шийка.
+                Включва луксозна чанта.
+            </descriptionOfProduct>
+            <warranty>images/fender/Fender.pdf</warranty>
+            <price>969.00€</price>
+            <version>#: 0149653340</version>
+        </product>
+    </products>
+</catalogue>

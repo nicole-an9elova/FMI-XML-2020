@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue_txt_2.xslt"?>
+<!DOCTYPE catalogue SYSTEM "guitarCatalogue.dtd">
+<catalogue>
+    <name>YAMAHA</name>
+    <products>
+        <product certificate="Yes" returns="No">
+            <nameOfTheProduct>BB734A</nameOfTheProduct>
+            <picture size="2" pictureAltText="Снимка на лицевата страна на китарата">images/yamaha/yamaha_1.jpg</picture>
+            <descriptionOfProduct>
+               
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Конструкция от елша / клен / елша</bodyMaterial>
+                    <bodyShape>Yamaha Original</bodyShape>
+                    <bodyFinish>Матово полупрозрачно черно: Сатен Полиуретан;
+                                 Тъмно кафе Sunburst: Гланц Полиуретан </bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Клен / махагон 5бр</neckMaterial>
+                    <neckFinish>Сатен Полиуретан</neckFinish>
+                    <neckShape>Bolt-On Neck</neckShape>
+                    <scaleLength>25.5" / 64.77 cm</scaleLength>
+                    <fingerboardMaterial>Палисандрово дърво</fingerboardMaterial>
+                    <fingerboardRadius>23 5/8" (600 mm)</fingerboardRadius>
+                    <numberOfFrets>21</numberOfFrets>
+                    <fretSize>Мedium</fretSize>
+                    <nutMaterial>Graphtech</nutMaterial>
+                    <nutWidth>(43 mm)</nutWidth>
+                    <positionInlays>8мм</positionInlays>
+                    <trussRod>None</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>VSP7n : Split Single Coil / Alnico V</neckPickup>
+                    <controls>Master Volume, Pickup Balancer, 3-BAND EQ(Bass, Middle, Treble),
+                     Активен/Пасивен Switch.
+                    </controls>
+                    <switching>5-Way Pickup Selector Switch</switching>
+                    <configuration>PK</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>Vintage Plus : Convertible stringing, Brass Saddle, Steel Plate</bridge>
+                    <hardwareFinish>Черен цвят</hardwareFinish>
+                    <tuningMachines>No</tuningMachines>
+                    <pickguard>3-слойно черен/бял</pickguard>
+                    <controlKnobs>Плосък връх, Бял тон</controlKnobs>
+                    <neckPlate>Cavity plate, Jack Black</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>19mm разстояние между 6-те Ibanez струни</strings>
+                    <legalNotice>
+                        ПРЕДУПРЕЖДЕНИЕ: Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .
+                    </legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>976,00лв.</price>
+            <version>#: 0288000526</version>
+        </product>
+        <product certificate="No" returns="No">
+            <nameOfTheProduct>BB435</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата страна на китарата">images/yamaha/yamaha_2.jpg</picture>
+            <descriptionOfProduct>
+              
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Конструкция от елша / клен / елша</bodyMaterial>
+                    <bodyShape>Yamaha Original</bodyShape>
+                    <bodyFinish>Матово полупрозрачно черно: Сатен Полиуретан;
+                                 Тъмно кафе Sunburst: Гланц Полиуретан </bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Клен / махагон 5бр</neckMaterial>
+                    <neckFinish>Сатен Полиуретан</neckFinish>
+                    <neckShape>Bolt-On Neck</neckShape>
+                    <scaleLength>25.5" / 64.77 cm</scaleLength>
+                    <fingerboardMaterial>Палисандрово дърво</fingerboardMaterial>
+                    <fingerboardRadius>23 5/8" (600 mm)</fingerboardRadius>
+                    <numberOfFrets>21</numberOfFrets>
+                    <fretSize>Мedium</fretSize>
+                    <nutMaterial>Graphtech</nutMaterial>
+                    <nutWidth>(43 mm)</nutWidth>
+                    <positionInlays>8мм</positionInlays>
+                    <trussRod>None</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>VSP7n : Split Single Coil / Alnico V</neckPickup>
+                    <controls>Master Volume, Pickup Balancer, 3-BAND EQ(Bass, Middle, Treble),
+                     Активен/Пасивен Switch.
+                    </controls>
+                    <switching>5-Way Pickup Selector Switch</switching>
+                    <configuration>PK</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>Vintage Plus : Convertible stringing, Brass Saddle, Steel Plate</bridge>
+                    <hardwareFinish>Черен цвят</hardwareFinish>
+                    <tuningMachines>No</tuningMachines>
+                    <pickguard>3-слойно черен/бял</pickguard>
+                    <controlKnobs>Плосък връх, Бял тон</controlKnobs>
+                    <neckPlate>Cavity plate, Jack Black</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>19mm разстояние между 6-те Ibanez струни</strings>
+                    <legalNotice>
+                        ПРЕДУПРЕЖДЕНИЕ: Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .
+                    </legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>520,00лв.</price>
+            <version>#: 0288456300</version>
+        </product>
+        <product certificate="Yes" returns="Yes">
+            <nameOfTheProduct>BBP35</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата странан на китарата">images/yamaha/yamaha_3.jpg</picture>
+            <descriptionOfProduct>
+                
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Конструкция от елша / клен / елша</bodyMaterial>
+                    <bodyShape>Yamaha Original</bodyShape>
+                    <bodyFinish>Матово полупрозрачно черно: Сатен Полиуретан;
+                                 Тъмно кафе Sunburst: Гланц Полиуретан </bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Клен / махагон 5бр</neckMaterial>
+                    <neckFinish>Сатен Полиуретан</neckFinish>
+                    <neckShape>Bolt-On Neck</neckShape>
+                    <scaleLength>25.5" / 64.77 cm</scaleLength>
+                    <fingerboardMaterial>Палисандрово дърво</fingerboardMaterial>
+                    <fingerboardRadius>23 5/8" (600 mm)</fingerboardRadius>
+                    <numberOfFrets>21</numberOfFrets>
+                    <fretSize>Мedium</fretSize>
+                    <nutMaterial>Graphtech</nutMaterial>
+                    <nutWidth>(43 mm)</nutWidth>
+                    <positionInlays>8мм</positionInlays>
+                    <trussRod>None</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>VSP7n : Split Single Coil / Alnico V</neckPickup>
+                    <controls>Master Volume, Pickup Balancer, 3-BAND EQ(Bass, Middle, Treble),
+                     Активен/Пасивен Switch.
+                    </controls>
+                    <switching>5-Way Pickup Selector Switch</switching>
+                    <configuration>PK</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>Vintage Plus : Convertible stringing, Brass Saddle, Steel Plate</bridge>
+                    <hardwareFinish>Черен цвят</hardwareFinish>
+                    <tuningMachines>No</tuningMachines>
+                    <pickguard>3-слойно черен/бял</pickguard>
+                    <controlKnobs>Плосък връх, Бял тон</controlKnobs>
+                    <neckPlate>Cavity plate, Jack Black</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>19mm разстояние между 6-те Ibanez струни</strings>
+                    <legalNotice>
+                        ПРЕДУПРЕЖДЕНИЕ: Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .
+                    </legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>507.00лв.</price>
+            <version>#: 0288456170</version>
+        </product>
+        <product certificate="Yes" returns="Yes">
+            <nameOfTheProduct>BB235</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата странан на китарата">images/yamaha/yamaha_4.jpg</picture>
+            <descriptionOfProduct>
+                
+            </descriptionOfProduct>
+            <features>
+                <body>
+                    <bodyMaterial>Конструкция от елша / клен / елша</bodyMaterial>
+                    <bodyShape>Yamaha Original</bodyShape>
+                    <bodyFinish>Матово полупрозрачно черно: Сатен Полиуретан;
+                                 Тъмно кафе Sunburst: Гланц Полиуретан </bodyFinish>
+                </body>
+                <neck>
+                    <neckMaterial>Клен / махагон 5бр</neckMaterial>
+                    <neckFinish>Сатен Полиуретан</neckFinish>
+                    <neckShape>Bolt-On Neck</neckShape>
+                    <scaleLength>25.5" / 64.77 cm</scaleLength>
+                    <fingerboardMaterial>Палисандрово дърво</fingerboardMaterial>
+                    <fingerboardRadius>23 5/8" (600 mm)</fingerboardRadius>
+                    <numberOfFrets>21</numberOfFrets>
+                    <fretSize>Мedium</fretSize>
+                    <nutMaterial>Graphtech</nutMaterial>
+                    <nutWidth>(43 mm)</nutWidth>
+                    <positionInlays>8мм</positionInlays>
+                    <trussRod>None</trussRod>
+                </neck>
+                <electronics>
+                    <neckPickup>VSP7n : Split Single Coil / Alnico V</neckPickup>
+                    <controls>Master Volume, Pickup Balancer, 3-BAND EQ(Bass, Middle, Treble),
+                     Активен/Пасивен Switch.
+                    </controls>
+                    <switching>5-Way Pickup Selector Switch</switching>
+                    <configuration>PK</configuration>
+                </electronics>
+                <hardware>
+                    <bridge>Vintage Plus : Convertible stringing, Brass Saddle, Steel Plate</bridge>
+                    <hardwareFinish>Черен цвят</hardwareFinish>
+                    <tuningMachines>No</tuningMachines>
+                    <pickguard>3-слойно черен/бял</pickguard>
+                    <controlKnobs>Плосък връх, Бял тон</controlKnobs>
+                    <neckPlate>Cavity plate, Jack Black</neckPlate>
+                </hardware>
+                <miscellaneous>
+                    <strings>19mm разстояние между 6-те Ibanez струни</strings>
+                    <legalNotice>
+                        ПРЕДУПРЕЖДЕНИЕ: Рак и репродуктивно увреждане - www.P65Warnings.ca.gov .
+                    </legalNotice>
+                </miscellaneous>
+                <accessories gigBag="Yes" guitarPicks="No">Елитен калъф</accessories>
+            </features>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>507.00лв.</price>
+            <version>#: 235BB456170</version>
+        </product>
+    </products>
+</catalogue>

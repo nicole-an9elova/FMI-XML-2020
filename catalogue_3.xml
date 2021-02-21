@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue_html_3.xsl"?>
+<!DOCTYPE catalogue SYSTEM "guitarCatalogue.dtd">
+<catalogue>
+    <name>PRS</name>
+    <products>
+        <product certificate="Yes" returns="No">
+            <nameOfTheProduct>SE Custom 22</nameOfTheProduct>
+            <picture size="2" pictureAltText="Снимка на лицевата страна на китарата">images/prs/prs_1.jpg</picture>
+            <descriptionOfProduct>
+                PRS SE Custom 22 добавя по-ретро тон и усещане към традиционната персонализирана платформа. 
+                Тази китара има подчертан среден клас и яснота, която осигурява сладка, пълна тонална основа,
+                позволяваща й лесно да се впише в комбинацията на вашата група или запис. Подобно на своя брат
+                с 24 лана, SE Custom 22 има кленово покритие с гръб от махагон и 25-инчова скала. 
+                Допълнителните ангажименти включват двойни 85/15 "S" хамбакери с обем, натискане / издърпване 
+                и 3-посочен превключвател на ножовете и патентован PRS мост тремоло. 
+                SE Custom 22 е солиден избор за играчи, израснали на 22 лада.
+            </descriptionOfProduct>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>976,00лв.</price>
+            <version>#: 0288000526</version>
+        </product>
+        <product certificate="No" returns="No">
+            <nameOfTheProduct>SE Custom 22 Semi-Hollow</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата страна на китарата">images/prs/prs_2.jpg</picture>
+            <descriptionOfProduct>
+                В PRS SE по поръчка 22 Полу-Холоу има музикален среден клас и изключително резонанс. 
+                Полу-кухото тяло осигурява ефирен, сладък тон, но с завъртане на копчето за тонове, 
+                двойните хамбакери могат да получат много ярки удари. Допълнителните ангажименти включват
+                кленов връх, гръб и врата от махагон, гриф от розово дърво и двойни пикапи 85/15 „S“ 
+                с регулиране на силата на звука и натискане / издърпване (за потупване на спирала),
+                съчетани с 3-посочен селектор за вземане на острието. 85/15 „S“ 
+                пикапите придават забележителна яснота и разширен висок и нисък край на гласа на този полу-кух.
+            </descriptionOfProduct>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>520,00лв.</price>
+            <version>#: 0288456300</version>
+        </product>
+        <product certificate="Yes" returns="Yes">
+            <nameOfTheProduct>SE Custom 24</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата странан на китарата">images/prs/prs_3.jpg</picture>
+            <descriptionOfProduct>
+                В SE обичая 24 е модерен класически с технически изправни трайност, пристрастяване игра 
+                и широк спектър от цветове, което го прави идеален кон китара. Играна от международни
+                 туристически артисти, концертиращи музиканти и амбициозни играчи, SE Custom 24 се 
+                 отличава с кленово покритие с плитка цигулка, гръб от махагон, широка тънка шийка
+                  от клен, гриф от палисандрово дърво с инкрустации за птици и патентован мост за тремоло
+                   от PRS. Неговите многостранни звуци идват от пикапите 85/15 “S”, съчетани
+                 с регулатор на силата на звука, пулс / дръпване на тона и 3-посочен селектор на пикапа.
+            </descriptionOfProduct>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>507.00лв.</price>
+            <version>#: 0288456170</version>
+        </product>
+        <product certificate="Yes" returns="No">
+            <nameOfTheProduct>SE Custom 24 "Floyd"</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата странан на китарата">images/prs/prs_4.jpg</picture>
+            <descriptionOfProduct>
+                В SE по поръчка 24 "Флойд" носи легендарния Floyd Rose моста към най-известния модел PRS е:
+                 по поръчка 24. Floyd Rose 1000 Series тремоло на дава на играчите нови опции за формулировка
+                  и увереност да трептене или гмуркане бомба, без да става фалшиво. Допълнителните срещи 
+                  включват 24 лада, 25-инчова скала, широка тънка кленова врата и 85/15 „S“ пикапи, които
+                   осигуряват забележителна яснота и удължен висок и нисък край (без кал, когато отидете за гърлото!).
+                    Така че гмуркайте се, огъвайте се, играйте с хармоници и се забавлявайте с SE Custom 24 “Floyd”
+                     китара ... тя може да отнеме каквото имате.
+            </descriptionOfProduct>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>507.00лв.</price>
+            <version>#: 0288456170</version>
+        </product>
+        <product certificate="No" returns="Yes">
+            <nameOfTheProduct>SE Custom 24 "Lefty"</nameOfTheProduct>
+            <picture size="3" pictureAltText="Снимка на лицевата странан на китарата">images/prs/prs_5.jpg</picture>
+            <descriptionOfProduct>
+                PRS SE Custom 24 е типичният SE инструмент, създаден да отразява вярно PRS модела,
+                 който започна всичко. PRS SE Custom 24 Lefty  носи класически PRS за игра, 
+                 надеждност и жив тон на левичарите по света. Готов за концерти и студиен звук,
+                  този модел запазва същите основни спецификации като SE Custom 24: кленов връх,
+                   гръб от махагон, широка тънка кленова шийка, 24 лада, 25-инчова дължина, PRS 
+                   патентован формован тремоло и двоен 85 / 15 „S“ пикапи с 3-посочен превключвател 
+                   на острието и управление на тона за натискане / издърпване за почукване на намотка. 
+
+            </descriptionOfProduct>
+            <warranty>images/ibanez/Ibanez.pdf</warranty>
+            <price>507.00лв.</price>
+            <version>#: 0288456170</version>
+        </product>
+    </products>
+</catalogue>
